@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/bash
 # This script downloads the Stanford CoreNLP models.
 
 CORENLP=stanford-corenlp-full-2015-12-09
